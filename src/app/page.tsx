@@ -39,7 +39,7 @@ export default function Home() {
     if (!svg) return;
     setIsProcessing(true);
 
-    requestAnimationFrame(() => {
+    setTimeout(() => {
       try {
         const parsed = parseSVG(svg);
         setViewBox(parsed.viewBox);
@@ -51,7 +51,7 @@ export default function Home() {
       } finally {
         setIsProcessing(false);
       }
-    });
+    }, 50);
   }, []);
 
   useEffect(() => {

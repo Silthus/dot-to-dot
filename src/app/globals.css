@@ -1,24 +1,20 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
+@theme {
+  --font-sans: var(--font-fredoka), "Segoe UI", system-ui, sans-serif;
 }
 
 @media print {
-  header, aside, .no-print { display: none !important; }
-  main { padding: 0 !important; margin: 0 !important; max-width: none !important; }
+  header,
+  aside,
+  .no-print {
+    display: none !important;
+  }
+  main {
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: none !important;
+  }
 }
 
 input[type="range"]::-webkit-slider-thumb {
@@ -26,17 +22,17 @@ input[type="range"]::-webkit-slider-thumb {
   height: 18px;
   width: 18px;
   border-radius: 50%;
-  background: #3b82f6;
+  background: #6366f1;
   cursor: pointer;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
 }
 
 input[type="range"]::-moz-range-thumb {
   height: 18px;
   width: 18px;
   border-radius: 50%;
-  background: #3b82f6;
+  background: #6366f1;
   cursor: pointer;
   border: none;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
 }
