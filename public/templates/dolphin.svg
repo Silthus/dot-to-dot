@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Body upper -->
+  <path d="M80,280 Q100,250 140,220 Q180,195 220,180 Q260,170 300,175 Q340,180 370,200 Q400,220 420,250 Q435,275 440,300" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Body lower -->
+  <path d="M80,280 Q85,300 100,310 Q130,325 170,330 Q210,332 250,325 Q290,315 330,295 Q370,280 400,280 Q420,285 440,300" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Snout -->
+  <path d="M80,280 Q60,275 45,265 Q35,258 30,250 Q35,248 45,252 Q60,258 80,268" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Mouth line -->
+  <path d="M80,278 Q65,280 50,278" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Eye -->
+  <path d="M110,248 Q114,244 118,248 Q114,252 110,248 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Dorsal fin -->
+  <path d="M260,175 Q265,130 280,110 Q290,100 295,110 Q300,130 295,170" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Tail flukes -->
+  <path d="M440,300 Q455,290 470,275 Q478,268 480,275 Q475,290 460,305 Q450,310 440,305" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M440,300 Q450,315 460,335 Q465,345 458,348 Q450,342 440,328 Q435,318 438,305" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Pectoral fin -->
+  <path d="M180,290 Q175,310 165,335 Q160,348 155,345 Q155,335 160,318 Q165,300 175,285" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Belly line -->
+  <path d="M120,300 Q150,308 180,305" stroke="#333" stroke-width="2" fill="none"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Five-pointed star outer outline -->
+  <path d="M250,60 L295,190 L435,190 L320,275 L365,405 L250,330 L135,405 L180,275 L65,190 L205,190 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Inner pentagon -->
+  <path d="M250,165 L290,275 L205,200 L295,200 L210,275 Z" stroke="#333" stroke-width="2" fill="none"/>
+</svg>

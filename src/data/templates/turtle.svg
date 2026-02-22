@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Shell -->
+  <path d="M120,250 Q130,160 200,140 Q250,130 300,140 Q370,160 380,250 Q370,310 300,330 Q250,340 200,330 Q130,310 120,250 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Shell pattern lines -->
+  <path d="M250,130 L250,340" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M170,165 L190,320" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M330,165 L310,320" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M130,220 L370,220" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M125,270 L375,270" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Head -->
+  <path d="M380,240 L420,225 Q445,220 455,230 Q460,240 455,250 Q445,260 420,255 L380,250" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Eye -->
+  <path d="M440,235 Q443,232 446,235 Q443,238 440,235 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Tail -->
+  <path d="M120,248 L90,250 Q75,248 70,242 Q75,240 85,242 L120,244" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Front right leg -->
+  <path d="M350,310 Q365,340 380,360 Q390,370 400,368 Q395,358 385,345 L365,310" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Front right foot -->
+  <path d="M395,368 L392,378 M400,368 L402,378 M395,370 L398,380" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Back right leg -->
+  <path d="M170,315 Q155,345 140,365 Q132,375 122,372 Q128,362 138,348 L155,315" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Back right foot -->
+  <path d="M122,372 L118,382 M126,374 L124,384 M130,372 L130,382" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Front left leg -->
+  <path d="M350,185 Q365,160 375,145 Q382,135 392,138 Q388,148 378,158 L358,185" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Back left leg -->
+  <path d="M170,185 Q155,160 142,142 Q135,132 125,136 Q130,145 140,158 L158,185" stroke="#333" stroke-width="2" fill="none"/>
+</svg>

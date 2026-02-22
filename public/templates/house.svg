@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Roof -->
+  <path d="M250,80 L80,220 L420,220 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Walls -->
+  <path d="M110,220 L110,420 L390,420 L390,220" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Door -->
+  <path d="M220,420 L220,310 L280,310 L280,420" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Door knob -->
+  <path d="M268,368 A5,5 0 1,1 268,367.99 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Door top arch -->
+  <path d="M220,310 Q250,290 280,310" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Left window -->
+  <path d="M140,280 L195,280 L195,350 L140,350 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Left window cross -->
+  <path d="M167,280 L167,350 M140,315 L195,315" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Right window -->
+  <path d="M305,280 L360,280 L360,350 L305,350 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Right window cross -->
+  <path d="M332,280 L332,350 M305,315 L360,315" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Chimney -->
+  <path d="M340,100 L340,180 L370,180 L370,120" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Chimney top -->
+  <path d="M335,100 L375,100" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Chimney smoke -->
+  <path d="M355,100 Q350,80 360,65 Q365,55 358,40" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Ground line -->
+  <path d="M40,420 L460,420" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Path to door -->
+  <path d="M220,420 Q210,445 200,460 M280,420 Q290,445 300,460" stroke="#333" stroke-width="2" fill="none"/>
+</svg>

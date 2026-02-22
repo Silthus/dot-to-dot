@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Fuselage -->
+  <path d="M40,250 Q50,235 80,230 L350,225 Q400,225 430,230 Q460,238 475,250 Q460,262 430,270 Q400,275 350,275 L80,270 Q50,265 40,250 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Nose cone -->
+  <path d="M40,250 Q30,248 20,250 Q30,252 40,250" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Cockpit window -->
+  <path d="M60,242 L90,238 Q95,240 95,245 L95,250 Q95,255 90,257 L60,255" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Wing top -->
+  <path d="M180,230 L170,190 Q165,170 175,160 L200,150 Q210,148 215,155 L225,180 Q230,200 230,225" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Wing bottom -->
+  <path d="M180,270 L170,310 Q165,330 175,340 L200,350 Q210,352 215,345 L225,320 Q230,300 230,275" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Tail fin vertical -->
+  <path d="M420,230 L430,175 Q435,155 445,150 Q455,148 458,158 L455,180 Q450,210 445,230" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Tail fin horizontal upper -->
+  <path d="M400,228 L395,210 Q393,200 400,195 L420,190 Q428,190 428,198 L425,225" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Tail fin horizontal lower -->
+  <path d="M400,272 L395,290 Q393,300 400,305 L420,310 Q428,310 428,302 L425,275" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Window dots -->
+  <path d="M120,242 Q123,239 126,242 Q123,245 120,242 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M145,241 Q148,238 151,241 Q148,244 145,241 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M170,240 Q173,237 176,240 Q173,243 170,240 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M250,238 Q253,235 256,238 Q253,241 250,238 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M275,237 Q278,234 281,237 Q278,240 275,237 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M300,237 Q303,234 306,237 Q303,240 300,237 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M325,237 Q328,234 331,237 Q328,240 325,237 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Engine under wing -->
+  <path d="M195,270 Q190,278 188,290 Q188,298 195,300 Q202,298 202,290 Q200,278 198,272" stroke="#333" stroke-width="2" fill="none"/>
+</svg>

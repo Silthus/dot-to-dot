@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Hull -->
+  <path d="M60,300 L80,350 Q90,370 110,375 L390,375 Q410,370 420,350 L440,300 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Deck -->
+  <path d="M60,300 L440,300" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Cabin/superstructure -->
+  <path d="M150,300 L150,240 L350,240 L350,300" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Upper deck -->
+  <path d="M140,240 L360,240" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Bridge -->
+  <path d="M200,240 L200,195 L300,195 L300,240" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Bridge roof -->
+  <path d="M190,195 L310,195" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Funnel/smokestack -->
+  <path d="M260,195 L260,150 Q260,140 270,140 L280,140 Q290,140 290,150 L290,195" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Smoke -->
+  <path d="M275,140 Q280,125 290,120 Q300,118 305,125 Q310,115 320,112" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Mast -->
+  <path d="M230,195 L230,120" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Flag -->
+  <path d="M230,120 L260,130 L230,140" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Cabin windows -->
+  <path d="M170,260 L185,260 L185,280 L170,280 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M200,260 L215,260 L215,280 L200,280 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M285,260 L300,260 L300,280 L285,280 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M315,260 L330,260 L330,280 L315,280 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Bridge windows -->
+  <path d="M215,208 L230,208 L230,225 L215,225 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M240,208 L255,208 L255,225 L240,225 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M265,208 L280,208 L280,225 L265,225 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Portholes on hull -->
+  <path d="M140,330 A8,8 0 1,1 140,329.99 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M190,340 A8,8 0 1,1 190,339.99 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M250,345 A8,8 0 1,1 250,344.99 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M310,340 A8,8 0 1,1 310,339.99 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <path d="M360,330 A8,8 0 1,1 360,329.99 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Water line -->
+  <path d="M30,390 Q80,380 130,390 Q180,400 230,390 Q280,380 330,390 Q380,400 430,390 Q460,385 480,390" stroke="#333" stroke-width="2" fill="none"/>
+</svg>

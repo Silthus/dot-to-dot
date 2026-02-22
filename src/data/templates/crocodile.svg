@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Body -->
+  <path d="M60,250 Q80,220 120,215 L200,210 Q250,205 300,210 L380,220 Q420,225 440,240 Q450,250 440,260 Q420,275 380,280 L300,290 Q250,295 200,290 L120,285 Q80,280 60,250 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Upper jaw -->
+  <path d="M440,240 L480,235 Q495,237 498,245 Q495,248 480,250 L440,250" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Lower jaw -->
+  <path d="M440,260 L475,265 Q490,262 492,255 Q490,252 480,250" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Teeth upper -->
+  <path d="M455,245 L458,238 M465,244 L468,237 M475,243 L478,237" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Teeth lower -->
+  <path d="M455,258 L458,265 M465,260 L468,266 M475,258 L477,263" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Eye -->
+  <path d="M420,228 Q425,222 430,228 Q425,234 420,228 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Back ridges -->
+  <path d="M150,210 L155,195 L160,210 M180,208 L185,193 L190,208 M210,207 L215,192 L220,207 M240,206 L245,191 L250,206 M270,207 L275,192 L280,207 M300,208 L305,193 L310,208 M330,210 L335,196 L340,212" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Tail -->
+  <path d="M60,250 Q40,245 25,240 Q15,238 10,245 Q15,255 25,260 Q35,262 50,258" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Front leg -->
+  <path d="M350,280 L355,310 Q358,325 365,330 L375,330 Q370,325 368,315 L365,280" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Back leg -->
+  <path d="M150,285 L145,315 Q142,330 135,335 L125,335 Q130,330 133,318 L137,285" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Front foot toes -->
+  <path d="M365,330 L362,338 M370,330 L370,338 M375,330 L378,338" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Back foot toes -->
+  <path d="M125,335 L122,343 M130,335 L130,343 M135,335 L138,343" stroke="#333" stroke-width="2" fill="none"/>
+</svg>

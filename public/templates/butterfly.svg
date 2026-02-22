@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Body -->
+  <path d="M250,120 L250,380" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Head -->
+  <path d="M238,130 Q238,115 250,110 Q262,115 262,130 Q262,140 250,142 Q238,140 238,130 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Left antenna -->
+  <path d="M245,115 Q220,85 210,65 Q208,58 212,55" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Right antenna -->
+  <path d="M255,115 Q280,85 290,65 Q292,58 288,55" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Left upper wing -->
+  <path d="M250,160 Q220,140 180,120 Q140,105 110,115 Q80,130 70,165 Q65,200 80,230 Q100,255 130,265 Q160,270 190,260 Q220,245 250,220" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Right upper wing -->
+  <path d="M250,160 Q280,140 320,120 Q360,105 390,115 Q420,130 430,165 Q435,200 420,230 Q400,255 370,265 Q340,270 310,260 Q280,245 250,220" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Left lower wing -->
+  <path d="M250,240 Q225,250 195,270 Q165,290 145,315 Q130,340 135,365 Q145,390 170,395 Q200,395 225,375 Q245,355 250,330" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Right lower wing -->
+  <path d="M250,240 Q275,250 305,270 Q335,290 355,315 Q370,340 365,365 Q355,390 330,395 Q300,395 275,375 Q255,355 250,330" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Left wing pattern -->
+  <path d="M120,170 Q150,180 170,200 Q180,215 160,225" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Right wing pattern -->
+  <path d="M380,170 Q350,180 330,200 Q320,215 340,225" stroke="#333" stroke-width="2" fill="none"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Body -->
+  <path d="M100,220 Q110,180 150,160 Q200,145 260,145 Q320,148 360,165 Q390,180 400,220 Q405,260 400,300 L100,300 Q95,260 100,220 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Head -->
+  <path d="M100,220 Q80,200 70,180 Q65,160 75,145 Q90,130 110,135 Q125,140 130,160 Q132,175 125,195" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Ear -->
+  <path d="M75,155 Q45,145 35,170 Q30,195 45,215 Q60,225 80,215" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Eye -->
+  <path d="M95,168 Q99,164 103,168 Q99,172 95,168 Z" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Trunk -->
+  <path d="M75,185 Q65,210 60,240 Q58,265 65,285 Q70,300 80,310 Q90,315 95,308 Q90,295 85,280 Q78,260 80,240 Q82,225 90,210" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Tusk -->
+  <path d="M90,200 Q85,215 88,225 Q92,230 95,225 Q95,215 92,205" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Front left leg -->
+  <path d="M140,300 L135,350 Q133,370 130,380 L155,380 Q155,370 152,350 L155,300" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Front right leg -->
+  <path d="M180,300 L178,350 Q176,370 174,380 L198,380 Q198,370 195,350 L195,300" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Back left leg -->
+  <path d="M310,300 L308,350 Q306,370 304,380 L328,380 Q328,370 325,350 L325,300" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Back right leg -->
+  <path d="M360,300 L358,350 Q356,370 354,380 L378,380 Q378,370 375,350 L375,300" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Tail -->
+  <path d="M400,230 Q420,225 430,215 Q435,210 438,215 Q440,225 435,230 Q425,235 415,238" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Belly line -->
+  <path d="M155,300 Q250,315 350,300" stroke="#333" stroke-width="2" fill="none"/>
+</svg>
