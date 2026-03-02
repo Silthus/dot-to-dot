@@ -19,11 +19,12 @@ export async function POST(request: NextRequest) {
     }
 
     const fullPrompt = `${LINE_ART_PREFIX} ${prompt.trim()}. ${LINE_ART_SUFFIX}`;
+    const modelId = process.env.GEMINI_IMAGE_MODEL || "gemini-2.5-flash-image";
 
     const results = await Promise.allSettled(
       Array.from({ length: 3 }, () =>
         generateText({
-          model: google("gemini-2.5-flash-preview-05-20"),
+          model: google(modelId),
           prompt: fullPrompt,
           providerOptions: {
             google: {
@@ -48,8 +49,16 @@ export async function POST(request: NextRequest) {
     }
 
     if (images.length === 0) {
+      const firstError = results.find(r => r.status === "rejected");
+      const reason = firstError?.status === "rejected" ? String(firstError.reason?.message || "") : "";
+      let userError = "Failed to generate any images. Please try again.";
+      if (reason.includes("quota") || reason.includes("Quota")) {
+        userError = "API quota exceeded. Please enable billing on your Google AI Studio account for image generation.";
+      } else if (reason.includes("not found")) {
+        userError = `Model "${modelId}" not found. Check GEMINI_IMAGE_MODEL env var.`;
+      }
       return NextResponse.json(
-        { error: "Failed to generate any images. Please try again." },
+        { error: userError },
         { status: 502 },
       );
     }
