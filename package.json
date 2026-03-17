@@ -11,7 +11,7 @@
   "dependencies": {
     "@ai-sdk/google": "^3.0.34",
     "ai": "^6.0.105",
-    "jspdf": "^4.2.0",
+    "jspdf": "^4.2.1",
     "next": "16.1.6",
     "potrace": "^2.1.8",
     "react": "19.2.3",
